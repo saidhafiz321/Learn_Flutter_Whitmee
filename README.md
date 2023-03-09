@@ -12,4 +12,5 @@ lets to learn together with me...
 9.Tab Bar
 10.Grid View
 11.Input Selection Widget
-12.button in flutter.
+12.Button in flutter
+14.Slider Widget
